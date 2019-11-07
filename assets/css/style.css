@@ -1,54 +1,48 @@
-.rectanglevert{
+#containerfloat > div {
+  float: left;
+}
+#rectanglevert{
   height: 50px;
   width: 75%;
   background: #5ee91d;
-  float:left;
 }
-.rectanglebleu{
+#rectanglebleu{
 	height: 50px;
   width: 25%;
 	background:#1d30e9;
-  float:left;
 }
-.rectanglerouge{
+#rectanglerouge{
   height: 175px;
   width: 30%;
   background: #e9231d;
-  float:left;
 }
-.rectangleorange{
+#rectangleorange{
   height: 85px;
   width: 30%;
   background: #eb7f22;
-  float:left;
 }
-.rectanglegris{
+#rectanglegris{
   height: 85px;
   width: 40%;
   background: #95a5a5;
-  float:left;
 }
-.rectanglejaune{
+#rectanglejaune{
   height: 90px;
   width: 22%;
   background: #f39c11;
-  float:left;
 }
-.rectanglebleuciel{
+#rectanglebleuciel{
   height: 90px;
   width: 25%;
   background: #1ba086;
-  float:left;
 }
-.rectangleorangefonce{
+#rectangleorangefonce{
   height: 90px;
   width: 23%;
   background: #d25400;
-  float:left;
 }
-.rectanglebleubas{
+#rectanglebleubas{
   height:230px;
   width: 100%;
   background: #2d3e50;
-  float:left;
 }
